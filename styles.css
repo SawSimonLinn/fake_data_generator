@@ -224,7 +224,8 @@ button:hover {
   text-align: left;
   font-size: 14px;
   overflow-x: hidden;
-  max-height: 300px;
+  height: auto;
+  max-height: 470px;
   overflow-y: auto;
 }
 
